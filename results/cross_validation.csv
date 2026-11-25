@@ -1,0 +1,4 @@
+Model,Mean F1
+Logistic Regression,0.9689279929068159
+Decision Tree,0.9968053660084599
+Random Forest,0.9975471486680079

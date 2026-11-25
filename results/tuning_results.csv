@@ -1,0 +1,4 @@
+Model,Best Parameters,Best CV F1
+Logistic Regression,{'classifier__C': 10},0.9710726711403577
+Decision Tree,{'classifier__max_depth': 20},0.9968053660084599
+Random Forest,"{'classifier__max_depth': 20, 'classifier__n_estimators': 100}",0.997440567813093
